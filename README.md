@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi there, I'm Matt
 
-<!--
-**theCyberTech/theCyberTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ About Me
+I'm a passionate Cyber Security professional with a strong drive for continuous learning and evolution. I specialize in enhancing cybersecurity practices using modern approaches, with a focus on Infrastructure Security, SIEM, XDR, and Automation.
 
-Here are some ideas to get you started:
+## 🏅 Certifications
+- CISSP (Certified Information Systems Security Professional)
+- OSCP (Offensive Security Certified Professional)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Cybersecurity
+- Infrastructure Security
+- SIEM (Security Information and Event Management)
+- XDR (Extended Detection and Response)
+- Automation in Cybersecurity
+- Penetration Testing
+- Risk Assessment and Management
+
+## 🔭 Current Projects
+- [Project 1]: Deploying Microsoft Sentinel to various customers
+- [Project 2]: Helping build a world of AI Agents with CrewAI
+
+## 🌱 I'm currently learning
+- Everything AI
+- Git / GitHub / Devops
+- Automation
+
+## 📫 How to reach me
+- Email: matt@crewai.com
+- Twitter: @Cyb3rCh1ck3n
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=theCyberTech&show_icons=true&theme=dark)
+
+## 🎯 Professional Goals
+- Contribute to open-source AI & cybersecurity projects
+- Learn additional programming languages
+
+---
+⭐️ From [theCyberTech](https://github.com/theCyberTech)

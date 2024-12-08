@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Matt
 
 ## 🛡️ About Me
-I'm a passionate Cyber Security professional with a strong drive for continuous learning and evolution. I specialize in enhancing cybersecurity practices using modern approaches, with a focus on AI, AI Agentsm, Infrastructure Security, SIEM, XDR, and Automation.
+I'm a passionate Cyber Security professional with a strong drive for continuous learning and evolution. I specialize in enhancing cybersecurity practices using modern approaches, with a focus on AI, AI Agents, Infrastructure Security, SIEM, XDR, and Automation.
 
 ## 🏅 Certifications
 - CISSP (Certified Information Systems Security Professional)

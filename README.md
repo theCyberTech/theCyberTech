@@ -11,31 +11,25 @@
 
 Cybersecurity professional specializing in the intersection of **AI**, **infrastructure security**, and **automation**. I focus on building practical solutions that make security teams more effective—whether that's deploying enterprise SIEM at scale or developing AI agents that handle repetitive security tasks.
 
-Currently at **CrewAI**, where I work on both security infrastructure and AI agent development.
-
-## Certifications
-
-**CISSP** · **OSCP** · Plus additional security and IT certifications
+Currently Head of Platform Security at **CrewAI**
 
 ## What I Work On
 
 | Area | Focus |
 |------|-------|
+| **Security Compliance** | CrewAI, Compliance, SOC 2, HIPAA, ISO |
 | **Infrastructure Security** | AWS security architecture, hardening, compliance |
-| **Detection & Response** | SIEM deployment (Sentinel), XDR, threat hunting |
 | **AI & Automation** | Building AI agents with CrewAI, security workflow automation |
 | **Offensive Security** | Penetration testing, vulnerability assessment |
 
 ## Current Projects
-
-**Enterprise SIEM Deployment** — Implementing Microsoft Sentinel across multiple enterprise environments, focusing on detection engineering and automated response.
 
 **AI Agents Development** — Building versatile AI-powered tools and workflows using the CrewAI framework, with applications in security operations and beyond.
 
 ## Currently Learning
 
 - Advanced AI/ML applications in security
-- DevOps practices and CI/CD pipelines
+- DevSecOps practices and CI/CD pipelines
 - Expanding automation capabilities
 
 ## GitHub Stats

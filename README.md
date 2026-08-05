@@ -24,10 +24,6 @@ Currently Head of Platform Security at **CrewAI**
 
 ## Current Projects
 
-**[ASM Tool](https://github.com/theCyberTech/asm-tool)** — Docker-based attack surface management and security scanning.
-
-**[CrewAI Basic Example](https://github.com/theCyberTech/crewai_basic_example)** — Hands-on starter for building AI agent workflows with CrewAI.
-
 **AI Agents Development** — Building versatile AI-powered tools and workflows using the CrewAI framework, with applications in security operations and beyond.
 
 ## Currently Learning

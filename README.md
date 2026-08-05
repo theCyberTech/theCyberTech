@@ -2,7 +2,7 @@
 
 **Building the future of security through AI, automation, and modern infrastructure.**
 
-[![Twitter](https://img.shields.io/badge/Twitter-@Cyb3rCh1ck3n-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Cyb3rCh1ck3n)
+[![X](https://img.shields.io/badge/X-@Cyb3rCh1ck3n-000000?style=flat&logo=x&logoColor=white)](https://x.com/Cyb3rCh1ck3n)
 [![Email](https://img.shields.io/badge/Email-matt@crewai.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:matt@crewai.com)
 
 ---
@@ -17,7 +17,7 @@ Currently Head of Platform Security at **CrewAI**
 
 | Area | Focus |
 |------|-------|
-| **Security Compliance** | CrewAI, Compliance, SOC 2, HIPAA, ISO |
+| **Security Compliance** | SOC 2, HIPAA, ISO 27001 |
 | **Infrastructure Security** | AWS security architecture, hardening, compliance |
 | **AI & Automation** | Building AI agents with CrewAI, security workflow automation |
 | **Offensive Security** | Penetration testing, vulnerability assessment |
@@ -28,9 +28,9 @@ Currently Head of Platform Security at **CrewAI**
 
 ## Currently Learning
 
-- Advanced AI/ML applications in security
-- DevSecOps practices and CI/CD pipelines
-- Expanding automation capabilities
+- Agentic security workflows and LLM-assisted threat analysis
+- Infrastructure-as-code security and policy-as-code (Terraform, OPA)
+- Hardening CI/CD pipelines for supply-chain risk
 
 ## GitHub Stats
 
